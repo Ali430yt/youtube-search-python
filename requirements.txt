@@ -1,3 +1,4 @@
 apiclient
 requests
-flask
+قارورة
+gunicorn
